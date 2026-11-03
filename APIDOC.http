@@ -1,0 +1,23 @@
+###
+GET http://127.0.0.1:8000/welcome/
+Accept: application/json
+
+###
+GET http://127.0.0.1:8000/company/
+Accept: application/json
+
+###
+GET http://127.0.0.1:8000/job-info/
+Accept: application/json
+
+###
+GET http://127.0.0.1:8000/applicant/
+Accept: application/json
+
+###
+GET http://127.0.0.1:8000/all-jobs/
+Accept: application/json
+
+###
+GET http://127.0.0.1:8000/employer/
+Accept: application/json
